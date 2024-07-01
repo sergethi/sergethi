@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQGtftwqhVVkEA/profile-displaybackgroundimage-shrink_350_1400/0/1687536912509?e=1708560000&v=beta&t=58ucIdRXZFGqALKgIYYlGV34UPNeas27ClGOSwF3ft4" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D4E16AQGtftwqhVVkEA/profile-displaybackgroundimage-shrink_350_1400/0/1687536912509?e=1725494400&v=beta&t=3ZTpNTcvJWGC-Dx9-BVBUu4fKaIkKr072VFWKDxnIk0" align="center" style="width: 100%" />
 </div>  
   
 
@@ -28,7 +28,8 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://asset.brandfetch.io/id2alue-rx/idDmAvfOjj.svg?updated=1714556231750" alt="Next JS" height="50" /></a> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
