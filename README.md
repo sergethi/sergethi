@@ -127,7 +127,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*ChvyjXBLDwXsRleYFTBBeQ.png" /></div>  
 
 <br/>  
 
