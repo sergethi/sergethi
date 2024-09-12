@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Serge, a  dedicated and detail-oriented Software Engineer 👨‍💻 specialized in Front-End Development.</div>  
+### <div align="center">I'm Serge, a  dedicated and detail-oriented Software Engineer 👨‍💻 specialized in Front-End and Fullstack Development.</div>  
   
 
-- 🔭 I’m currently working on the Meta Back-End Developer Certification [Django API Project](https://github.com/sergethi/django-api-final-litlelemon-meta-coursera)  
+- 🔭 I’m currently revamping  my  [Beauty studio project](https://github.com/sergethi/beauty-studio) project and working towards obtaining the AWS Developer Certification.
   
 
 - 🌱 I’m currently learning Django and NextJs
   
 
-- ❓ Ask me about anything related to PERN stack and related technologies  
+- ❓ Ask me about anything related to deployment, PERN stack, and related technologies  
   
 
 - ⚡ Fun fact:  I find my flow and thoroughly enjoy working with CSS  
